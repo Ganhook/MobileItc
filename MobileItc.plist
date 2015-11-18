@@ -11,17 +11,17 @@
         <key>kind</key>
         <string>software-package</string>
         <key>url</key>
-        <string>http://raw.githubusercontent.com/Ganhook/MobileItc/master/MobileItc.ipa</string>
+        <string>http://raw.githubusercontent.com/Ganhook/MobileItc/master/Titob 6.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>kr.co.hanshinit.ios.MobileItc</string>
+        <string></string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>MobileItc</string>
+        <string>ti</string>
       </dict>
     </dict>
   </array>
